@@ -3,6 +3,12 @@
     padding: 0px;
     box-sizing: border-box;
 }
+#nome ,#email{
+    margin-left: 10px;
+}
+.estados{
+    margin-left: 10px;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
@@ -70,7 +76,13 @@ flex-direction: column;
 
 h2{
     margin-top:10px;
-    font-size:16px;
+    font-size:13px;
+    margin-left:10px;
+}
+
+.esquerda{
+    margin-left: 10px;
+    font-size: 13px;
 }
 
 .mb{
